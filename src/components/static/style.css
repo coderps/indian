@@ -1,0 +1,132 @@
+.header {
+    height: 40vh;
+    border-bottom: 1px solid whitesmoke;
+    width: 65%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.header > img {
+    object-fit: cover;
+    object-position: 60% 60%;
+    width: 100%;
+    height: 100%;
+}
+
+.custom-card {
+    margin: 0 auto;
+    max-width: fit-content;
+}
+
+.custom-card > div {
+    max-width: 275px;
+    height: max-content;
+    color: aliceblue;
+}
+
+.custom-card > div > img {
+    max-height: 100px;
+}
+
+.phere-fotos img {
+    height: 200px;
+}
+
+.tell-us {
+    font-size: large;
+    color: aliceblue;
+    font-family: cursive;
+}
+
+.join-us-form {
+    background-color: aliceblue;
+    border: 2px solid black;
+    border-radius: 5%;
+    width: 300px;
+    padding: 25px;
+    margin: 0 auto;
+}
+
+.join-us-form a {
+    color: blue;
+}
+
+.faqs {
+    color: aliceblue;
+    font-size: larger;
+}
+
+.faqs > .accordian {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.faqs a {
+    color: blue;
+}
+
+.acc-inner {
+    text-align: justify;
+    overflow-wrap: break-word;
+}
+
+.google-form > h1 {
+    color: aliceblue;
+}
+
+.google-form * {
+    border-color: aliceblue;
+}
+
+.lables {
+    color: aliceblue;
+}
+
+footer {
+    height: max-content;
+    color: aliceblue;
+}
+
+footer > img {
+    height: 250px;
+}
+
+a {
+    color: aqua;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+pre {
+    white-space: pre-wrap;
+    /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;
+    /* Mozilla, since 1999 */
+    white-space: -pre-wrap;
+    /* Opera 4-6 */
+    white-space: -o-pre-wrap;
+    /* Opera 7 */
+    word-wrap: break-word;
+    /* Internet Explorer 5.5+ */
+}
+
+@media (max-width: 480px) {
+    .header {
+        height: 40vh;
+        border-bottom: 1px solid whitesmoke;
+        width: 100%;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    .header>img {
+        object-fit: cover;
+        object-position: 55% 50%;
+    }
+
+    .faqs > .accordian {
+        width: 100%;
+    }
+}
