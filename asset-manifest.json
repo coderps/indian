@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.abbc4a26.css",
-    "main.js": "/wedding/static/js/main.7c6f6699.js",
-    "static/js/787.4ff3cea1.chunk.js": "/wedding/static/js/787.4ff3cea1.chunk.js",
-    "static/media/crop.png": "/wedding/static/media/crop.2d9f9b6de480eb69508c.png",
-    "static/media/elephant.png": "/wedding/static/media/elephant.768d6bfb443e76ed1998.png",
-    "static/media/couple.svg": "/wedding/static/media/couple.3bf409dec8d5f7424b2311ddbe52cda3.svg",
-    "static/media/date.svg": "/wedding/static/media/date.ba02a813149a1f07b7a60584b0249dca.svg",
-    "static/media/location.svg": "/wedding/static/media/location.0dd2c834f8aaea0cae49561cb7cea623.svg",
-    "index.html": "/wedding/index.html",
-    "main.abbc4a26.css.map": "/wedding/static/css/main.abbc4a26.css.map",
-    "main.7c6f6699.js.map": "/wedding/static/js/main.7c6f6699.js.map",
-    "787.4ff3cea1.chunk.js.map": "/wedding/static/js/787.4ff3cea1.chunk.js.map"
+    "main.css": "/indian/static/css/main.abbc4a26.css",
+    "main.js": "/indian/static/js/main.e2aea171.js",
+    "static/js/787.8251a675.chunk.js": "/indian/static/js/787.8251a675.chunk.js",
+    "static/media/crop.png": "/indian/static/media/crop.2d9f9b6de480eb69508c.png",
+    "static/media/elephant.png": "/indian/static/media/elephant.768d6bfb443e76ed1998.png",
+    "static/media/couple.svg": "/indian/static/media/couple.3bf409dec8d5f7424b2311ddbe52cda3.svg",
+    "static/media/date.svg": "/indian/static/media/date.ba02a813149a1f07b7a60584b0249dca.svg",
+    "static/media/location.svg": "/indian/static/media/location.0dd2c834f8aaea0cae49561cb7cea623.svg",
+    "index.html": "/indian/index.html",
+    "main.abbc4a26.css.map": "/indian/static/css/main.abbc4a26.css.map",
+    "main.e2aea171.js.map": "/indian/static/js/main.e2aea171.js.map",
+    "787.8251a675.chunk.js.map": "/indian/static/js/787.8251a675.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abbc4a26.css",
-    "static/js/main.7c6f6699.js"
+    "static/js/main.e2aea171.js"
   ]
 }
