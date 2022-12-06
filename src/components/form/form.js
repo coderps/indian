@@ -87,6 +87,7 @@ const Form = () => {
             data: [{
                 name: name,
                 email: email,
+                people: people,
             }],
             headers: {'x-api-key': 'C027I%Ut6!A$bY!8m#6#R76FX4U4#hB6HwN1KOxLCRcqk2r#T2PDe2lHch@kea0l'}
         };
