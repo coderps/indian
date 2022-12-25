@@ -1,7 +1,7 @@
 {
   "name": "indian",
   "version": "0.1.0",
-  "homepage": "https://codeps.github.io/indian",
+  "homepage": "https://coderps.github.io/indian",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",

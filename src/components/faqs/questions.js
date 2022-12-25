@@ -7,7 +7,7 @@ export const questions = [{
         title: "How many days is the wedding?",
         qs: [{
             q: "",
-            a: "Just one day, phere event 😁"
+            a: "Just one day, 3rd April 2023 😁"
         }]
     }, {
         title: "Providing Accomodations?",
